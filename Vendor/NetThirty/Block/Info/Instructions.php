@@ -20,7 +20,7 @@ class Instructions extends \Magento\Payment\Block\Info
     /**
      * @var string
      */
-    protected $_template = 'Adtran_NetThirty::info/instructions.phtml';
+    protected $_template = 'Vendor_NetThirty::info/instructions.phtml';
 
     /**
      * Get instructions text from order payment
