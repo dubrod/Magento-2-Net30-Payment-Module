@@ -12,5 +12,5 @@ class Netthirty extends \Magento\OfflinePayments\Block\Form\AbstractInstruction
      *
      * @var string
      */
-    protected $_template = 'Adtran_NetThirty::form/netthirty.phtml';
+    protected $_template = 'Vendor_NetThirty::form/netthirty.phtml';
 }
